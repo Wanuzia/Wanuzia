@@ -2,6 +2,8 @@
 
 👀Estou interessada em aprender mais sobre o mundo da programação com outros estudantes e professores.
 
+Desde criança sou apaixonada pelas linguagens artísticas, o que me levou a estudar e trabalhar no setor cultural. Tenho vontade de partilhar o conhecimento que adquiri na área, por meio da tecnologia.
+
 🌱 Atualmente estou aprendendo lógica de programação HTML e JavaScript.
 
 
