@@ -14,7 +14,7 @@ Desde criança sou apaixonada pelas linguagens artísticas, o que me levou a est
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/wanuzia-braga/>
+  <a href="https://www.linkedin.com/in/wanuzia-braga/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <!---
