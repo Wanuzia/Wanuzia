@@ -9,7 +9,7 @@
 
 Desde criança sou apaixonada pelas linguagens artísticas, o que me levou a estudar e trabalhar no setor cultural. Tenho vontade de partilhar o conhecimento que adquiri sobre diversas manifestações culturais, por meio da tecnologia. 
 
-🌱 Atualmente estou aprendendo HTML, CSS3 e JavaScript.
+🌱 Atualmente estou aprendendo HTML, CSS3, JavaScript e NodeJs.
 </p>
 
 <p align='center'>
