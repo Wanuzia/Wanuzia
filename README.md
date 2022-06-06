@@ -9,7 +9,7 @@ Desde criança sou apaixonada pelas linguagens artísticas, e, após três déca
  
  Assim como as artes, ou pode ser um diferencial devido a forma como se manifesta, por meio da tecnologia é possível melhorar a qualidade de vida das pessoas, promover inclusão social e da diversidade cultural, utilizando algoritmos.👀
  
- Nesta jornada, sou uma eterna aprendiz.
+ Nesta jornada, sou uma aprendiz.
 
 
 <p align='center'>🌱 Atualmente estou aprendendo:
