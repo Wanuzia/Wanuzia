@@ -5,11 +5,11 @@
 
 <p align='center'>
  
-👀Estou interessada em aprender mais sobre o mundo da programação com outros estudantes e professores.
-
-Desde criança sou apaixonada pelas linguagens artísticas, o que me levou a estudar e trabalhar no setor cultural. Decidi partilhar o conhecimento que adquiri sobre diversas manifestações culturais, por meio da tecnologia, e desde que tomei essa decisão, novas questões têm surgido: como melhorar a qualidade de vida das pessoas, como fomentar a inclusão social e apoio à diversidade cultural, utilizando o conhecimento tecnológico?
+Desde criança sou apaixonada pelas linguagens artísticas, e, após três décadas, percebo que programar é também uma maneira de se expressar: partimos do conhecimento técnico, assim como acontece em expressões artísticas como a dança, o cinema e a música, que possuem suas técnicas específicas.
  
- Estou em processo de aprendizagem e de implementação de possíveis respostas a essas questões.
+ Assim como as artes, ou pode ser um diferencial devido a forma como se manifesta, por meio da tecnologia é possível melhorar a qualidade de vida das pessoas, promover inclusão social e da diversidade cultural, utilizando algoritmos.👀
+ 
+ Nesta jornada, sou uma eterna aprendiz.
 
 
 <p align='center'>🌱 Atualmente estou aprendendo:
