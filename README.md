@@ -42,6 +42,14 @@ Desde criança sou apaixonada pelas linguagens artísticas, e, após três déca
 <p align='center'>  <a href="https://www.linkedin.com/in/wanuzia-braga/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
+ ## Github Stats
+
+![Wanuzia's github stats](https://github-readme-stats.vercel.app/api?username=wanuzia&show_icons=true&count_private=true&theme=tokyonight&hide=stars)
+
+|||
+|:-:|:-:|
+|![Wanuzia's github stats](https://github-readme-streak-stats.herokuapp.com/?user=wanuzia&theme=tokyonight)|![Hemerson's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=@wanuzia&theme=tokyonight)|
+|||
 <!---
 Wanuzia/Wanuzia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
