@@ -48,7 +48,7 @@ Desde criança sou apaixonada pelas linguagens artísticas, e, após três déca
 
 |||
 |:-:|:-:|
-|![Wanuzia's github stats](https://github-readme-streak-stats.herokuapp.com/?user=wanuzia&theme=tokyonight)|![Hemerson's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=@wanuzia&theme=tokyonight)|
+|![Wanuzia's github stats](https://github-readme-streak-stats.herokuapp.com/?user=wanuzia&theme=tokyonight)|![Wanuzia's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=@wanuzia&theme=tokyonight)|
 |||
 <!---
 Wanuzia/Wanuzia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
