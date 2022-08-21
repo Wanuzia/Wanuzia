@@ -1,6 +1,6 @@
  <h1 align='center'>
  
- 👋 Hi, I’m Wanuzia.
+ 👋 Hi, I’m Wanuzia!
 </h1>
 
 <p align='center'>
@@ -32,6 +32,7 @@ Desde criança sou apaixonada pelas linguagens artísticas, e, após três déca
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
  
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+ 
 
 </p>
 
@@ -41,10 +42,14 @@ Desde criança sou apaixonada pelas linguagens artísticas, e, após três déca
  <br>
 <p align='center'>  <a href="https://www.linkedin.com/in/wanuzia-braga/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    
+<div align='center'>
 
  ## Github Stats
 
 ![Wanuzia's github stats](https://github-readme-stats.vercel.app/api?username=wanuzia&show_icons=true&count_private=true&theme=tokyonight&hide=stars)
+
+</div>
 
 |||
 |:-:|:-:|
