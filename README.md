@@ -45,9 +45,6 @@ Desde criança sou apaixonada pelas linguagens artísticas, e, após três déca
     
 <div align='center'>
 
- ## Github Stats
-
-![Wanuzia's github stats](https://github-readme-stats.vercel.app/api?username=wanuzia&show_icons=true&count_private=true&theme=tokyonight&hide=stars)
 
 </div>
 
