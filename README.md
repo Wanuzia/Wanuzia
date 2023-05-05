@@ -46,10 +46,7 @@ Desde criança sou apaixonada pelas linguagens artísticas, e, após três déca
 <div align='center'>
 
 
-</div>
+![Wanuzia's github stats](https://github-readme-streak-stats.herokuapp.com/?user=wanuzia&theme=tokyonight)
 
-|||
-|:-:|:-:|
-|![Wanuzia's github stats](https://github-readme-streak-stats.herokuapp.com/?user=wanuzia&theme=tokyonight)|![Wanuzia's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=@wanuzia&theme=tokyonight)|
-|||
+ </div>
 
